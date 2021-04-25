@@ -7,7 +7,7 @@
 *
 
 Accent Colors:
-1: #e7c900
+1: #05BDDF
 2: #75bd18
 3: #0078e7
 4: #e43760
@@ -100,7 +100,7 @@ html {
 }
 
 ::-moz-selection {
-	background-color: #e7c900;
+	background-color: #05BDDF;
 	color: #fff;
 }
 
@@ -528,7 +528,7 @@ ul.list-styled li {
 
 .list-styled ul li:before,
 ul.list-styled li:before {
-	color: #e7c900;
+	color: #05BDDF;
 	content: "\f00c";
 	display: inline-block;
 	font-family: "Font Awesome 5 Free", sans-serif;
@@ -565,7 +565,7 @@ ul.list-styled li:before {
 
 .breadcrumb {
 	background-color: transparent;
-	border: 2px solid #e7c900;
+	border: 2px solid #05BDDF;
 	border-radius: 0;
 	color: inherit;
 	font-size: 16px;
@@ -666,7 +666,7 @@ legend {
 }
 
 .modal .remove:hover {
-	border-color: #e7c900;
+	border-color: #05BDDF;
 	color: #e7c900 !important;
 }
 
@@ -699,7 +699,7 @@ input[disabled] {
 
 input[type="submit"] {
 	background-color: transparent;
-	border: 2px solid #e7c900;
+	border: 2px solid #05BDDF;
 	border-radius: 0;
 	color: #292f31;
 	cursor: pointer;
@@ -715,7 +715,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-	background-color: #e7c900;
+	background-color: #05BDDF;
 }
 
 .ds input[type="submit"]:not([class]),
@@ -766,7 +766,7 @@ select option,
 }
 
 .form-control.invalid {
-	box-shadow: 0 0 0 2px #e7c900;
+	box-shadow: 0 0 0 2px #05BDDF;
 }
 
 .form-control:focus {
@@ -870,12 +870,12 @@ input[type=radio] {
 }
 
 .has-error .form-control {
-	border-color: #e7c900;
+	border-color: #05BDDF;
 }
 
 .has-error label,
 .has-error .help-block {
-	color: #e7c900;
+	color: #05BDDF;
 }
 
 /*styled checkbox */
@@ -1023,15 +1023,15 @@ input[type="radio"]:disabled + label:before {
 }
 
 .nav-tabs .nav-link:hover {
-	background: #e7c900;
-	border-color: #e7c900;
+	background: #05BDDF;
+	border-color: #05BDDF;
 	color: #1a2023;
 }
 
 .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
-	background: #e7c900;
-	border-color: #e7c900;
+	background: #05BDDF;
+	border-color: #05BDDF;
 }
 
 .nav-tabs.vertical-tabs {
@@ -1192,7 +1192,7 @@ input[type="radio"]:disabled + label:before {
 
 [role="tablist"] .card-header a:before {
 	align-items: center;
-	background-color: #e7c900;
+	background-color: #05BDDF;
 	border-radius: 50%;
 	color: #fff;
 	content: "+";
